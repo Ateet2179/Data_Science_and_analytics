@@ -1,4 +1,4 @@
-Walmart Sales Analysis
+** Walmart Sales Analysis
 
 This project aims to analyze sales data of Walmart to identify trends, opportunities, and areas for improvement. The dataset used in this project includes information on customer orders, such as order date, ship date, product category, sub-category, product name, quantity, sales, and profit, among others. The dataset contained one missing row and a sales value, which were dropped and imputed with the mean value, respectively.
 
@@ -9,5 +9,3 @@ Visualizations were used to illustrate the data. A histogram was used to show th
 Then, categories were created based on the quantity of orders and the sales value. The sales by category were calculated and showed that the technology category had the highest sales. The project provides valuable insights for Walmart to improve its sales performance, such as identifying the most frequent buyers, analyzing the profitability of each product, and detecting which category generates more sales.
 
 Finally, predictive analysis was done using Random forest regresser wich resulted in  score of 0.85
-
-
