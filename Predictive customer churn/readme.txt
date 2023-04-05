@@ -1,0 +1,5 @@
+This project aims to predict customer churn in a telecommunications company using machine learning techniques. Churn is when a customer stops doing business or ends a relationship with a company. The goal is to take proactive action to retain valuable customers and get ahead of the competition. The project analyzes and visualizes the data, prepares it for modeling, makes predictions using machine learning, and communicates important, actionable insights to stakeholders.
+
+The data is cleaned by removing unnecessary columns and the churn rate is calculated. Data visualization using seaborn is used to understand the distribution and relationship between various features. Binary features are encoded and feature scaling is performed. Feature engineering is performed by creating new features like average calls and removing state feature.
+
+The machine learning model is built using logistic regression and random forest classifier. Classification report, confusion matrix, precision, recall and roc_curve are calculated for evaluating the model. The project concludes with providing actionable insights to the stakeholders based on the analysis performed.

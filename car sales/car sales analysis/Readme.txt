@@ -1,0 +1,6 @@
+Car Sales Analysis Project
+In this project, we have performed a detailed analysis of a car sales dataset to identify trends and patterns in the data. We used libraries such as pandas, numpy, seaborn, and matplotlib to load and clean the data, create new features, and visualize the data. We used pandas to clean the dataset by dropping rows with missing values, filling missing values with the average and most common values, and converting a column to datetime format. We created new features by categorizing the cars based on their size, power, and price category. We visualized the data using histograms, bar plots, and scatterplots to gain insights into the data.
+
+We found that Ford is the top-selling brand, while Porsche has the highest average price. We also observed that the resale value has a weak correlation with sales but a medium correlation with the price. We also noticed that the power performance factor has a high correlation with the car model and a weak correlation with other features.
+
+This analysis could be used by car manufacturers and dealers to better understand the market trends and make informed decisions about pricing, promotions, and marketing strategies.
