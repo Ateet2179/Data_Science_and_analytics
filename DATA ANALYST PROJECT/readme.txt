@@ -2,6 +2,8 @@ The project aimed to analyze the sales strategies of a pens and printers company
 
 The to handle data inconsistencey sales_method was converted to lowercase, and "em + call" was replaced with "email + call." The missing values in the revenue column were filled with the average revenue value. The years_as_customer column was cleaned by replacing two values greater than 39 with the mode value, because the company was invented in 1984.
 
+I evaluated hypothesis testing using the kruskal h test, because the data is not normally distributed and there is a significant differencce in the variance of the revenue, and the test rejected the null hypothesis, which is there is a huge difference in  impact for revenue by sales methods.
+
 The analysis revealed that email was the most popular sales method, followed by calls, with the combination of both being used by around 2500 customers. The revenue data was right-skewed, with a few high revenue values driving the overall distribution to the right. The majority of purchases were made at around $100 and $50.
 
 Furthermore, the analysis suggested that the email sales method generated the most revenue, followed by email + call, and finally calls generating the least revenue. Customers using email + call tended to purchase in a wide price range, whereas email sales methods had the most purchases around $100, and calls had the least revenue range.
