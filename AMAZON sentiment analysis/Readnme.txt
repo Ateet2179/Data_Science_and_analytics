@@ -1,0 +1,17 @@
+Sentiment Analysis
+
+
+
+
+
+ I utilized web scraping techniques and sentiment analysis to analyze reviews of gaming laptops from Amazon. I used Python libraries such as Beautiful Soup, NLTK, TextBlob, and Vader to perform the analysis. After cleaning and preprocessing the data, I conducted sentiment analysis using TextBlob and Vader models to determine the polarity of each review. I also compared the sentiment analysis results between the two models and found some instances where they disagreed.
+
+To gain further insights into the data, I performed data analysis on the laptop products using various types of visualizations such as histograms, bar plots, line plots, pie charts, and scatter plots by using the Matplotlib and Seaborn libraries. Some of the insights that I gathered from the data analysis include the most common ratings were between 3.5 and 4.5, with a median rating of 4. The average price of gaming laptops was around 1 Lakh, and the prices ranged from a minimum of 20000 to 6.5 lakhs. The average discount offered on these products was around 23%, with some products offering as much as 78% discount.
+
+Additionally, I found that more than 50% of the products had a 4-star rating, and the top models were from Asus, HP, and MSI, with most laptops having an NVIDIA graphics card. The MSI brand had the highest value of 6.7 lakhs. Furthermore, the sentiment analysis showed that most of the reviews were positive, with only a small percentage being negative.
+
+These insights can be valuable for anyone interested in purchasing a gaming laptop, as they provide information on the most popular models, prices, ratings, and sentiments of the products. By utilizing the insights provided by the analysis, potential buyers can make informed decisions on which gaming laptop to purchase.
+
+
+
+
